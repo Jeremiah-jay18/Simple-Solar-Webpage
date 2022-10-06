@@ -1,0 +1,45 @@
+.body {
+    background-image:url(solar.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 100%;
+    -o-background-size: cover;
+}
+.div1{
+     background-color: aliceblue;
+     position: relative;
+     border:1px solid black;
+    }
+
+    a:link{
+        color:aliceblue;
+    }
+
+    .span2{ font-size: 25px;}
+
+    .span1{color:green; font-size: 50px;}
+
+    .navcover{
+    display:flex;
+    color:white;
+    height:52px;
+    background-color: rgb(17, 1, 46);
+     }
+    input[type="submit"]{cursor:pointer;
+         border-radius:5px;
+         border:2px groove rgb(255, 238, 0); 
+         color:white;
+         background-color: rgb(22, 128, 22);}
+    .bottom{color: bisque;
+        font-size:40px;
+        text-align:center;
+        align-content:center;}
+
+    .mark1{cursor: pointer;}
+
+    .mark2{font-size:
+         20px;color:white;
+        background-color:green;
+        padding:10px 20px;
+        border-radius: 35px; 
+        cursor:pointer}
